@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tommy",
+      "birthday": "2013-01-18"
+    },
+    {
+      "id": 2,
+      "name": "Jennie",
+      "birthday": "2000-01-01"
+    },
+    {
+      "id": 3,
+      "name": "Harry",
+      "birthday": "2010-01-01"
+    },
+    {
+      "id": 4,
+      "name": "Beck",
+      "birthday": "2017-01-04"
+    },
+    {
+      "id": 5,
+      "name": "Ben",
+      "birthday": "2023-02-22"
+    }
+  ],
+  "article": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor sit amet",
+      "user_id": 1
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet",
+      "user_id": 2
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor sit amet",
+      "user_id": 3
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum dolor sit amet",
+      "user_id": 4
+    }
+  ]
+}
